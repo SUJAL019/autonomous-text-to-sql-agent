@@ -23,3 +23,4 @@ A containerized, autonomous Text-to-SQL analyst built from scratch using raw Pyt
    ```bash
    git clone [https://github.com/sujal019/autonomous-text-to-sql-agent.git](https://github.com/sujal019/autonomous-text-to-sql-agent.git)
    cd autonomous-text-to-sql-agent
+   [![Autonomous Text-to-SQL Agent Demo](https://img.youtube.com/vi/https://youtu.be/iAXxPqFnlIQ?si=4GCRv-yReGu0TUwg/maxresdefault.jpg)](https://youtu.be/iAXxPqFnlIQ?si=4GCRv-yReGu0TUwg)
